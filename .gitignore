@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+
+# Environment configuration
+.env
+
+# Virtual environments
+.venv
+
+# Editor settings
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+TODO.md
+

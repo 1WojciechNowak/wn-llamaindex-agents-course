@@ -1,18 +1,18 @@
 # Llamaindex Agents Course 🦙🤖
 
-### A hands-on course on **LLM agent fundamentals** built mainly with **OpenAI + LlamaIndex**. <br>  
+### A hands-on course on **LLM agent fundamentals**, built mainly with **OpenAI + LlamaIndex**. <br>  
 You’ll learn what an “agent” really is, why frameworks matter, and how to design agents that can **use tools**, **manage memory**, and follow proven **patterns** - with plenty of practical, code-first examples and guided exercises.
 
 ## 📚 What you’ll learn (6 chapters)
 
-| # | Chapter | You’ll learn | Status | 📅 Publish Date |
-|---:|---|---|---|:---------------:|
-| 1 | **💻 How to talk with AI** | LLM interaction basics: conversations, system vs user prompt, response styles, memory basics, and function calling. | Scheduled |   2026-03-17    |
-| 2 | **🤖 What is an agent (really)?** | A practical definition of an agent + building a simple agent **from scratch** using only the OpenAI Chat Completions API. | Planned |   2026-04-21    |
-| 3 | **🏗️ Building with frameworks — LlamaIndex basics** | Why we need an agent framework, what it abstracts, and how to get productive fast with LlamaIndex — plus how to plug in models from Hugging Face (e.g., Qwen) as an alternative to hosted APIs. | Planned |   2026-05-19    |
-| 4 | **🦙 Agent types in LlamaIndex** | Overview of available agent types like: FunctionAgent, ReActAgent, CodeActAgent + when to use each, and their trade-offs (pros/cons). | Planned |   2026-06-16    |
-| 5 | **🛠️ Tools exploration** | Using tools effectively: vector search, web search, SQL, Python interpreter, creating custom tools, and leveraging ready-made tool integrations. | Planned |   2026-07-21    |
-| 6 | **🧠 Agents memory** | Short-term vs long-term memory, ephemeral vs persistent memory, and practical strategies for reliable agent behavior. | Planned |    20260818     |
+| # | Chapter | You’ll learn | Status    | 📅 Publish Date |
+|---:|---|---|-----------|:---------------:|
+| 1 | **💻 How to talk with AI** | LLM interaction basics: conversations, system vs user prompt, response styles, memory basics, and function calling. | Published |   2026-03-17    |
+| 2 | **🤖 What is an agent (really)?** | A practical definition of an agent + building a simple agent **from scratch** using only the OpenAI Chat Completions API. | Scheduled |   2026-04-21    |
+| 3 | **🏗️ Building with frameworks — LlamaIndex basics** | Why we need an agent framework, what it abstracts, and how to get productive fast with LlamaIndex — plus how to plug in models from Hugging Face (e.g., Qwen) as an alternative to hosted APIs. | Planned   |   2026-05-19    |
+| 4 | **🦙 Agent types in LlamaIndex** | Overview of available agent types like: FunctionAgent, ReActAgent, CodeActAgent + when to use each, and their trade-offs (pros/cons). | Planned   |   2026-06-16    |
+| 5 | **🛠️ Tools exploration** | Using tools effectively: vector search, web search, SQL, Python interpreter, creating custom tools, and leveraging ready-made tool integrations. | Planned   |   2026-07-21    |
+| 6 | **🧠 Agents memory** | Short-term vs long-term memory, ephemeral vs persistent memory, and practical strategies for reliable agent behavior. | Planned   |   2026-08-18    |
 
 ### ⏭️ What’s next
 After you’ll master single-agent foundations, the next course will deeper into **multi-agent systems**: orchestration 🧩, communication flows 🔀, and collaboration patterns like **worker–judge**, **supervisor**, **network** 🕸️, and custom coordination schemes.
